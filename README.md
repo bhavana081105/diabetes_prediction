@@ -17,8 +17,8 @@ It applies a Support Vector Machine (SVM) classifier with a linear kernel.
 5. Predict for new patient data
 
 ## 📈 Results
-- Training Accuracy: ~X%
-- Test Accuracy: ~Y%  
+- Training Accuracy: 78%
+- Test Accuracy: ~77%  
 *(Replace X and Y with your actual printed results)*
 
 ## 🚀 How to Run
